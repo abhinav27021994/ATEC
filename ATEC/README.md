@@ -14,8 +14,6 @@ Program is trained for 30 epochs and runs at 66% accuracy.
 * pip install keras
 * pip install opencv-python
 
-Download haarcascades file from here=> https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
-
 ### Note: Kaggle dataset can be downloaded from:
 http://www.mediafire.com/folder/trbjv7bysiycl/challenges-in-representation-learning-facial-expression-recognition-challenge
 
